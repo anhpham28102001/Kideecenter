@@ -895,7 +895,7 @@ ul {
   transform: scale(1);
 }
 .search_block .overlayer {
-  background-color: rgb(57, 197, 222);
+  background-color: rgba(230, 191, 132, 0.478);
   position: fixed;
   cursor: url("../img/overlay-close.png"), auto;
   top: 0;
@@ -1786,7 +1786,7 @@ textarea {
 .form-para {
   font-size: 13px;
   /* font-family: "roboto", sans-serif; */
-  color: #ffffff;
+  color: #000;
   margin-bottom: 30px;
   text-align: right;
   font-weight: 300;
@@ -1805,7 +1805,7 @@ textarea {
   line-height: 50px;
   height: 50px;
   border-radius: 3px;
-  color: #ffffff !important;
+  color: #000 !important;
   font-size: 13px;
   z-index: 9;
   background-color: #f86f15;
